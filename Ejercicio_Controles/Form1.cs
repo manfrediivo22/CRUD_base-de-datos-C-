@@ -19,7 +19,7 @@ namespace Ejercicio_Controles
 
         private void groupBox1_Enter(object sender, EventArgs e)
         {
-
+            //hola
         }
 
         private void bt_Nuevo_Click(object sender, EventArgs e)
